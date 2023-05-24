@@ -1,4 +1,5 @@
 <?php
+//this is a test 
     //conection link to database
     //conection link infomation
     $servername = "localhost";
@@ -9,3 +10,7 @@
     //conection function
     $conLink=mysqli_connect($servername, $username, $password, $dataBase);
 ?>
+
+
+
+//this is to
